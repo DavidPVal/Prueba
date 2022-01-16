@@ -36,4 +36,8 @@ public class Prueba {
 	public void Probando() {
 		
 	}
+	
+	public void Probando2() {
+		
+	}
 }
