@@ -33,11 +33,5 @@ public class Prueba {
 		this.c = c;
 	}
 	
-	public void Probando() {
-		
-	}
-	
-	public void Probando2() {
-		
-	}
+
 }
